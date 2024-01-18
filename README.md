@@ -1,6 +1,7 @@
 # Ejercicio RockingData
 
 Ejercicio script de python para puesto DevOps Jr.
+- Algo a aclarar que me falto en el video, es que a medida que el usuario sube archivos se van alojando en la carpeta uploads.
 - Me fue de ayuda esta documentacion: https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/
 - Algo que me di cuenta despues de terminarlo, y que podia usar era el multi-stage builds de Docker para optimizar la imagen. https://docs.docker.com/build/building/multi-stage/
 
