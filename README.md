@@ -2,7 +2,7 @@
 
 Ejercicio script de python para puesto DevOps Jr.
 - Me guie y ayude con esta documentacion: https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/
-- Algo que me di cuenta despues de terminarlo, y que podia usar era el multi-stage builds de Docker para la imagen. https://docs.docker.com/build/building/multi-stage/
+- Algo que me di cuenta despues de terminarlo, y que podia usar era el multi-stage builds de Docker para optimizar la imagen. https://docs.docker.com/build/building/multi-stage/
 
 ## Requirements
 
