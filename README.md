@@ -16,7 +16,7 @@ Me guie y ayude con esta documentacion: https://flask.palletsprojects.com/en/2.3
 2. Navegar al directorio:
 
    ```bash
-   cd "Script Archivos"
+   cd "RockingData"
    ```
 3. Docker Build:
 
