@@ -1,6 +1,7 @@
 # Ejercicio RockingData
 
 Ejercicio script de python para puesto DevOps Jr.
+Me guie y ayude con esta documentacion: https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/
 
 ## Requirements
 
