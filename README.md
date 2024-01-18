@@ -25,7 +25,7 @@ Ejercicio script de python para puesto DevOps Jr.
 
    ```bash
    docker build -t pythonscript1 .
-   Con este comando, estamos construyendo la imagen de nuestra aplicacion, y -t le damos un nombre.
+   Con este comando, estamos construyendo la imagen de nuestra aplicacion, y con -t le damos un nombre.
    ```
 4. Correr la app :
 
