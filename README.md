@@ -38,8 +38,9 @@ Ejercicio script de python para puesto DevOps Jr.
 5. Docker Start y Docker Stop:
 
   ```bash
-  Para que la app deje de correr y tambien cuando la quieren comenzar a utilizar: 
+  Para que la app deje de correr y tambien cuando la quieren comenzar a utilizar:
 
-  Docker stop (nombre del contenedor)
-  Docker start (nombre del contenedor)
+  docker ps -a
+  docker stop (nombre del contenedor)
+  docker start (nombre del contenedor)
   ```
