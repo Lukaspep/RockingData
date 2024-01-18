@@ -5,8 +5,8 @@ Me guie y ayude con esta documentacion: https://flask.palletsprojects.com/en/2.3
 
 ## Requirements
 
-Flask==3.0.0
-Werkzeug==3.0.1
+- Flask==3.0.0
+- Werkzeug==3.0.1
 
 1. Clonar el repositorio:
 
