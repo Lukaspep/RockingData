@@ -24,18 +24,20 @@ Ejercicio script de python para puesto DevOps Jr. Utilize Flask por que se me er
 
    ```bash
    docker build -t pythonscript1 .
+   Con este comando, estamos construyendo la imagen de nuestra aplicacion, y -t le damos un nombre.
    ```
 4. Correr la app :
 
    ```bash
    docker build -p 5000:5000 pythonscript1
    La app va a estar habilitada en localhost:5000
+   Una vez que quieran dejar de utilizarla con Ctrl + C la app deja de correr (presionar mismo en la terminal).
    ```
 
 5. Docker Start y Docker Stop:
 
   ```bash
-  Para parar la app deben correr el comando Docker ps -a 
+  Para que la app deje de correr y tambien cuando la quieren comenzar a utilizar: 
 
   Docker stop (nombre del contenedor)
   Docker start (nombre del contenedor)
